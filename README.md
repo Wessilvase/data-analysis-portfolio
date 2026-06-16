@@ -1,13 +1,13 @@
 # Data Analysis Portfolio
 
-Coleção de projetos de análise de dados desenvolvidos durante meus estudos.
+This repository contains data analysis projects developed using Excel, SQL, Power BI, and Python.
 
-## Projetos
+## Projects
 
-### 1. Sales Analysis Dashboard
-- Excel
-- Tabela Dinâmica
-- Gráficos
-- Análise de vendas por trimestre
+### Sales Analysis Dashboard (Excel)
+- Pivot Tables
+- Pivot Charts
+- Sales performance analysis
+- Quarterly and annual revenue analysis
 
-
+More projects will be added over time.
